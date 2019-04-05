@@ -15,5 +15,5 @@ This repo will be updated every week with new materials for discussion.
 ## Contact Information
 
 If you have any questions, please contact us at:  
-TA: zubaerimran07cs@.ucla.edu  
+TA: zubaerimran07cs@ucla.edu  
 LA: arjun.subramonian@gmail.com
