@@ -15,6 +15,7 @@ Please fill out <a href = "https://drive.google.com/open?id=1WTnw7cG_L-hS8MZphhV
 
 ## Office Hours
 TA: Tuesdays 8:30-11:30 BH 3256S 
+
 LA: Mondays 2:30-3:30, Tuesdays 2:30-3:30 BH 3256S
 
 
