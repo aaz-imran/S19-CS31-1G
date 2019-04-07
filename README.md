@@ -5,6 +5,7 @@ Official course site can be accessed at http://web.cs.ucla.edu/classes/spring19/
 
 This repo will be updated every week with new materials for discussion.
 
+Please fill out <a href = "https://drive.google.com/open?id=1WTnw7cG_L-hS8MZphhVaI79JEsOu2B7CeJmZNgoyZiA">this feedback form</a> with content you would like discussed in upcoming discussion sections or feedback on past sections.
 
 ## Discussion Sessions
 
