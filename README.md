@@ -7,6 +7,7 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+04.09.19: No Discussion this week: Prof. Smallberg is taking over Friday as a lecture day.<br>
 04.05.19: Please fill out <a href = "https://drive.google.com/open?id=1WTnw7cG_L-hS8MZphhVaI79JEsOu2B7CeJmZNgoyZiA">this feedback form</a> with content you would like discussed in upcoming discussion sections or feedback on past sections.<br>
 
 
