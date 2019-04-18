@@ -7,9 +7,15 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+04.19.19: Week 3 worksheet has been placed under the week3 folder. Solutions will be available after section.
+<br>
+<br>
 04.12.19: No Discussion on the 19th. 
 [You can attend discussion of any other section you want or follow any instruction from the instructor. The slides will still be available here. Some practice problems and useful tips for you to work on the project2 and homework will be also posted.]<br> 
-04.09.19: No Discussion this week: Prof. Smallberg is taking over Friday as a lecture day.<br>
+<br>
+04.09.19: No Discussion this week: Prof. Smallberg is taking over Friday as a lecture day.
+<br>
+<br>
 04.05.19: Please fill out <a href = "https://drive.google.com/open?id=1WTnw7cG_L-hS8MZphhVaI79JEsOu2B7CeJmZNgoyZiA">this feedback form</a> with content you would like discussed in upcoming discussion sections or feedback on past sections.<br>
 
 
