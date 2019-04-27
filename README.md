@@ -26,7 +26,7 @@ This repo will be updated every week with new materials for discussion.
 ## Discussion Sessions
 
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week1/spring19_cs31_w1.pdf">Week1 Discussion</a>
-### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week4/spring19_cs31_w4.pdf">Week1 Discussion</a>
+### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week4/spring19_cs31_w4.pdf">Week4 Discussion</a>
 
 
 
