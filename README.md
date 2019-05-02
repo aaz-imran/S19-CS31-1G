@@ -7,7 +7,7 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
-05.02.19: <b>Clarification on ch - '0' and ch - 48</b> While ch - 48 works for character-to-digit conversion if the character encoding scheme is ASCII (or a superset of ASCII), it doesn't necessarily work for other encoding schemes (where the digits might have values in different ranges other than 48-57). ch - 48 was used just to show automatic type casting with a character and an integer type operands.
+05.02.19: <b>Clarification on ch - '0' and ch - 48</b> While ch - 48 works for character-to-digit conversion if the character encoding scheme is ASCII (or a superset of ASCII), it doesn't necessarily work for other encoding schemes (where the digits might have numerical values in some ranges other than 48-57). ch - 48 was used just to show automatic type casting with a character and an integer type operands.
 So, the portable and stylistically better way to do it is ch - '0'.
 <br>
 <br>
