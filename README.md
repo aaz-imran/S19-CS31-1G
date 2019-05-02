@@ -18,7 +18,7 @@ So, the portable and stylistically better way to do it is ch - '0'.
 <br>
 <br>
 04.12.19: No Discussion on the 19th. 
-[You can attend discussion of any other section you want or follow any instruction from the instructor. The slides will still be available here. Some practice problems and useful tips for you to work on the project2 and homework will be also posted.]<br> 
+[You can attend discussion of any other section you want or follow any instruction from the instructor. The slides will still be available here. Some practice problems and useful tips for you to work on the project2 and homework will be also posted.]
 <br>
 <br>
 04.09.19: No Discussion this week: Prof. Smallberg is taking over Friday as a lecture day.
