@@ -7,6 +7,13 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+05.03.19: ***HIGHLY IMPORTANT - PLEASE READ!*** 
+MAKE SURE to fill out this <a href = "http://tiny.cc/LA-feedback">LA SURVEY</a>. The survey is COMPLETELY ANONYMOUS. It's an important means by which I get constructive feedback on how to improve my teaching skills, and moreover, if you don't fill it out, I'll be sad.
+<br>
+<br>
+05.03.19: Week 5 worksheet has been placed under the week5 folder. Solutions will be available after section.
+<br>
+<br>
 05.02.19: <b>Clarification on ch - '0' and ch - 48</b> While ch - 48 works for character-to-digit conversion if the character encoding scheme is ASCII (or a superset of ASCII), it doesn't necessarily work for other encoding schemes (where the digits might have numerical values in some ranges other than 48-57). ch - 48 was used just to show automatic type casting with a character and an integer type operands.
 So, the portable and stylistically better way to do it is ch - '0'.
 <br>
