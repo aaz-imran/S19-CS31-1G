@@ -7,6 +7,9 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+05.10.19: Week 6 worksheet has been placed under the week6 folder. Solutions will be available after section.
+<br>
+<br>
 05.03.19: ***HIGHLY IMPORTANT - PLEASE READ!*** 
 MAKE SURE to fill out this <a href = "http://tiny.cc/LA-feedback">LA SURVEY</a>. The survey is COMPLETELY ANONYMOUS. It's an important means by which I get constructive feedback on how to improve my teaching skills, and moreover, if you don't fill it out, I'll be sad.
 <br>
