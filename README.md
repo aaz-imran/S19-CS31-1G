@@ -43,6 +43,7 @@ So, the portable and stylistically better way to do it is ch - '0'.
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week1/spring19_cs31_w1.pdf">Week1 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week4/spring19_cs31_w4.pdf">Week4 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week5/spring19_cs31_w5.pdf">Week5 Discussion</a>
+### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week6/spring19_cs31_w6.pdf">Week6 Discussion</a>
 
 
 
