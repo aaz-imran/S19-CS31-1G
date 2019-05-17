@@ -7,6 +7,9 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+05.17.19: Week 7 worksheet has been placed under the week7 folder. Solutions will be available after section.
+<br>
+<br>
 05.10.19: Week 6 worksheet has been placed under the week6 folder. Solutions will be available after section.
 <br>
 <br>
