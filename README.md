@@ -7,6 +7,9 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+05.17.19: Week 7 worksheet has been placed under the week7 folder. Solutions will be available after section.
+<br>
+<br>
 05.10.19: Week 6 worksheet has been placed under the week6 folder. Solutions will be available after section.
 <br>
 <br>
@@ -44,7 +47,7 @@ So, the portable and stylistically better way to do it is ch - '0'.
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week4/spring19_cs31_w4.pdf">Week4 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week5/spring19_cs31_w5.pdf">Week5 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week6/spring19_cs31_w6.pdf">Week6 Discussion</a>
-
+### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week7/spring19_cs31_w7.pdf">Week7 Discussion</a>
 
 
 ## Office Hours
