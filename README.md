@@ -7,6 +7,9 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+05.31.19: ***IMPORTANT*** Course evaluation is open now! Please complete your evaluations on CCLE before June 8.
+<br>
+<br>
 05.24.19: Week 8 worksheet has been placed under the week8 folder. Solutions will be available after section. 
 <br>
 <br>
