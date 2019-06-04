@@ -7,6 +7,9 @@ This repo will be updated every week with new materials for discussion.
 
 
 ## Notice/Updates
+06.04.19: Final Review on Friday!!
+<br>
+<br>
 05.31.19: ***IMPORTANT*** Online course evaluation is now open! Please complete your evaluations on CCLE before June 8.
 <br>
 <br>
