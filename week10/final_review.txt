@@ -1,0 +1,128 @@
+1.
+
+char* c[] = {"the", "quick brown fox", "jumped", "over the", "lazy dog"};
+char** cp[] = {c + 3, c + 2, c + 1, c, c + 4};
+char*** cpp = cp;
+
+a. cout << **(cpp + 3) << endl;
+
+b. cout << **(cp + 4) + 4 << endl;
+
+c. cout << **(++cpp) << endl;
+
+d. cout << **cp << endl;
+
+e. cout << **(++cpp) + 5 << endl;
+
+2. Write a function to reverse an array of chars using only pointers.
+
+3. What would I need to do to clean up the following memory? Note: the Pet class (not defined here) has a default constructor. What is a default constructor?
+
+a. Pet p();
+
+b. Pet p;
+
+c. Pet* p = new Pet();
+
+d. Pet* p = new Pet;
+
+4. Now, suppose the Pet class contains ONLY the following statically-allocated data member:
+    Leg* legs[]
+Write the destructor for the Pet class (if necessary).
+
+Now, suppose instead the Pet class contains ONLY the following data member:
+    Leg leg;
+Write the destructor for the Pet class (if necessary).
+
+5. What is the output of the following program?
+
+int sum = 0;
+for (int i = 1; i <= 7; i++)
+{
+    switch (i)
+    {
+        case 1:
+            sum += 3;
+        case 2:
+            sum += 2;
+        case 3:
+            sum += 1;
+            break;
+        case 4:
+            sum -= 5;
+        case 5:
+        case 6:
+        case 7:
+            sum -= 4;
+            break;      // Is this break necessary?
+    }
+}
+
+cout << sum << endl;
+
+6. What is the output of the following program?
+
+int a[] = {1, 2, 3, 4};
+int b[] = {5, 6, 7, 8};
+a = b;
+cout << a[0] << endl;
+
+6. What is the output of the following program?
+
+void func(int* a, int* b)
+{
+    a = b;
+    cout << a[0] << endl;
+}
+
+int a[] = {1, 2, 3, 4};
+int b[] = {5, 6, 7, 8};
+func(a, b);
+
+What is the output of the following program?
+
+void func(int*& a, int*& b)
+{
+    a = b;
+    cout << a[0] << endl;
+}
+
+int a[] = {1, 2, 3, 4};
+int b[] = {5, 6, 7, 8};
+func(a, b);
+
+7. What is the output of the following program?
+
+void func(int a[2], int b[3])
+{
+    a = b;
+    cout << a[0] << endl;
+}
+
+int a[] = {1, 2, 3, 4};
+int b[] = {5, 6, 7, 8};
+func(a, b);
+
+8. What is the output of the following program?
+
+int sum = 0;
+int k = 2;
+for (int i = 1; i <= 3; i++)
+{
+    if (k = i)
+        cout << "Hello world!" << endl;
+}
+
+9. Will this program compile in both cases? Will this program run in both cases?
+
+Pet p = new Pet;
+delete p;
+Case 1:
+delete p;
+Case 2:
+p = nullptr;
+delete p;
+
+10. In Project 7, let's say I've deleted every zombie from my array of Zombie pointers. What does my array look like now?
+
+
