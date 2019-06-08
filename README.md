@@ -59,6 +59,7 @@ So, the portable and stylistically better way to do it is ch - '0'.
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week7/spring19_cs31_w7.pdf">Week7 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week8/spring19_cs31_w8.pdf">Week8 Discussion</a>
 ### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week9/spring19_cs31_w9.pdf">Week9 Discussion</a>
+### <a href = "https://github.com/zubaerimran/S19-CS31-1G/blob/master/week10/spring19_cs31_w10.pdf">Week10 Discussion</a>
 
 
 
